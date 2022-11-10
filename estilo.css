@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,600&display=swap');
+
+body {
+    background: gray;
+}
+
+section {
+
+    position: relative;
+    width: 100%;
+    top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.info-container {
+    width: 500px;
+    height: 800px;
+
+}
+
+.info-container img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.tit {
+    position: relative;
+    background-color: white;
+    right: -112px;
+    font-size: 28px;
+    display: inline-block;
+    
+}
+
+.parr {
+    background-color: white;
+  
+}
+.video{
+    position: relative;
+    right: -90px;
+}
